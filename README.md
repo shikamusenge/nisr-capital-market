@@ -13,8 +13,8 @@ myenv\Scripts\activate
 
 2) ######## package to be installed ###########
 
-pip install pandas streamlit plotly
-pip install openpyxl
+pip install pandas streamlit plotly openpyxl
+
 
 3) ########### to run this project #############
  
