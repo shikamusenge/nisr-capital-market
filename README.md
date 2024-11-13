@@ -1,5 +1,5 @@
 
-cd C:\Users\I.O.T\PycharmProjects\nisr-capital-market\rseproject
+cd path to \nisr-capital-market\rseproject
 
 
 1) ######## Create virtual environment ##########
