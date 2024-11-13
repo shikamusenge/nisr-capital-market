@@ -5,6 +5,7 @@ cd path to \nisr-capital-market\rseproject
 1) ######## Create virtual environment ##########
 
 python -m venv myenv
+
 myenv\Scripts\activate
 
 
