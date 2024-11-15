@@ -40,6 +40,9 @@ Policy Suggestions: Based on the analysis, the project will propose possible pol
 
 
 
+############# clone the repository ########################
+
+git clone  https://github.com/shikamusenge/nisr-capital-market.git
 
 cd path to \nisr-capital-market\rseproject
 
