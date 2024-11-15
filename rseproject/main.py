@@ -30,7 +30,7 @@ elif page == "Table 4":
     display_table4(sheets["Table 4"])
 elif page == "Youth Data":
     # Load youth data and visualize it
-    st.title("Youth Labor Statistics Over Quarters (2019-2024)")
+    st.title("📊 Youth Labor Statistics Over Quarters (2019-2024)")
     st.subheader("Data Table")
 
     # Load youth data
@@ -38,7 +38,7 @@ elif page == "Youth Data":
     st.dataframe(youth_data, use_container_width=True)
 
     # Dropdown for metric selection
-    st.subheader("Metric Visualization")
+    st.subheader("📊 Metric Visualization")
     metric = st.selectbox("Select a metric to visualize", youth_data['Metric'].unique())
 
     # Filter data based on selected metric
